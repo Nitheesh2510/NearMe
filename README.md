@@ -142,7 +142,7 @@ College.html
 
 ## OUTPUT
 
-![alt text](<Screenshot 2024-04-04 092436.png>)
+![alt text](image.png)
 
 ![alt text](<Screenshot 2024-04-04 093400.png>)
 
